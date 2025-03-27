@@ -4,10 +4,10 @@
     "poster": "https://popovfreewind.github.io/all-my-projects-data/assets/posters/color-book.webp",
     "type": "game",
     "platforms": [
-      "roku"
+      "Roku"
     ],
     "links": {
-      "roku": "https://channelstore.roku.com/details/5bf8fcfcf864e45173daa8b043793b52/coloring-book"
+      "Roku": "https://channelstore.roku.com/details/5bf8fcfcf864e45173daa8b043793b52/coloring-book"
     }
   },
   {
@@ -15,10 +15,10 @@
     "poster": "https://popovfreewind.github.io/all-my-projects-data/assets/posters/never-have-i-ever.webp",
     "type": "game",
     "platforms": [
-      "roku"
+      "Roku"
     ],
     "links": {
-      "roku": "https://channelstore.roku.com/details/55385124efaff77a43d00a07e5c52576/never-have-i-ever"
+      "Roku": "https://channelstore.roku.com/details/55385124efaff77a43d00a07e5c52576/never-have-i-ever"
     }
   }
 ]
