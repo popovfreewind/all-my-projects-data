@@ -4,9 +4,9 @@ const project: Project = {
     name: "Color Book",
     poster: "color-book.webp",
     type: "game",
-    platforms: ["roku"],
+    platforms: ["Roku"],
     links: {
-        roku: "https://channelstore.roku.com/details/5bf8fcfcf864e45173daa8b043793b52/coloring-book"
+        Roku: "https://channelstore.roku.com/details/5bf8fcfcf864e45173daa8b043793b52/coloring-book"
     }
 }
 
