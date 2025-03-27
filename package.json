@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/popovfreewind/all-my-projects-data#readme",
   "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
     "@types/node": "^22.13.14",
+    "fs-extra": "^11.3.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2"
   }
