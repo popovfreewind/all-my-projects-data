@@ -6,7 +6,7 @@ const project: Project = {
     type: "game",
     platforms: ["Roku"],
     links: {
-        Roku: "https://channelstore.roku.com/details/55385124efaff77a43d00a07e5c52576/never-have-i-ever"
+        Roku: "https://channelstore.roku.com/details/95d1d01797babc352f88fdc7384a4aa9:9aef4d1397b37b399776f9ccace3f6d4/never-have-i-ever-sexy-and-wild-game"
     }
 }
 
