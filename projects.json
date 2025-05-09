@@ -8,7 +8,8 @@
     ],
     "links": {
       "Roku": "https://channelstore.roku.com/details/f06512bc4c1c8dca09700615c37e4cf1:663db2d8b6051523e9462cd60a215782/bestbeat-metronome"
-    }
+    },
+    "description": "BestBeat Metronome is a minimal, distraction-free metronome app designed for musicians of all levels. With an intuitive interface and precise tempo control, it helps you stay in rhythm whether you’re practicing or performing on stage."
   },
   {
     "name": "Color Book",
@@ -19,7 +20,8 @@
     ],
     "links": {
       "Roku": "https://channelstore.roku.com/details/a81570126be1bafb5c5f1ab39d28b364:6f464ab749c0cab8d671331f914258d8/color-book-kids-draw-and-paint"
-    }
+    },
+    "description": "Color Book is a vibrant, family-friendly app featuring 10+ categories and over 195 unique pages. Choose illustrations, mix custom colors, and easily fill areas with precision. Perfect for all ages — creative fun at your fingertips."
   },
   {
     "name": "Draw and Learn",
@@ -30,7 +32,8 @@
     ],
     "links": {
       "Roku": "https://channelstore.roku.com/details/00333ad7004967d728b73421323ccf56:0fb61613130ca4133991b23d4b22a9b2/draw-and-learn-english-for-kids"
-    }
+    },
+    "description": "Draw and Learn – English for Kids turns your Roku into a playful learning space. Children color objects while seeing their English names on screen — combining creativity with language practice in an engaging, kid-friendly format."
   },
   {
     "name": "Never Have I Ever",
@@ -41,7 +44,8 @@
     ],
     "links": {
       "Roku": "https://channelstore.roku.com/details/95d1d01797babc352f88fdc7384a4aa9:9aef4d1397b37b399776f9ccace3f6d4/never-have-i-ever-sexy-and-wild-game"
-    }
+    },
+    "description": "Never Have I Ever is a fun, social game where players take turns revealing things they’ve never done — and others confess if they have. Whether you’re playing casually or with drinks, it’s a great way to spark conversations and uncover surprising stories."
   },
   {
     "name": "Rolling Maze",
@@ -52,7 +56,8 @@
     ],
     "links": {
       "Roku": "https://channelstore.roku.com/details/fdd2f89046363fb2b94a4ab27af39c65:84f5b85e865893c9162dc42c99cc69cc/rolling-maze-game"
-    }
+    },
+    "description": "Rolling Maze Game is a fun and intuitive maze challenge for kids and families. Use your remote to rotate the maze and guide the ball to the goal before time runs out. Simple to play, tricky to master — perfect for quick, engaging sessions."
   },
   {
     "name": "Truth or Dare",
@@ -63,7 +68,8 @@
     ],
     "links": {
       "Roku": "https://channelstore.roku.com/details/a5073654672a6488e1947cc26975b2c2:54b965264b374474cd31ade076a9c8f1/truth-or-dare-spicy-party"
-    }
+    },
+    "description": "Truth or Dare: Spicy Party brings bold questions and daring challenges to your screen. Perfect for parties and game nights, it’s designed to spark laughter, break the ice, and keep the energy high. A fun twist on a classic — now on Roku."
   },
   {
     "name": "Wound You Rather",
@@ -74,7 +80,8 @@
     ],
     "links": {
       "Roku": "https://channelstore.roku.com/details/6c9bb0b47ce356ab287328d0d750ff28:6c5bd427f1524283b2e725ff161b3b13/would-you-rather"
-    }
+    },
+    "description": "Would You Rather – Adults Edition is a debate-driven party game with mature, thought-provoking questions. Choose between bold scenarios, see how others vote, and spark lively conversations on everything from philosophy to lifestyle. Smart, social, and made for adults on Roku."
   },
   {
     "name": "You Draw Pro",
@@ -85,6 +92,7 @@
     ],
     "links": {
       "Roku": "https://channelstore.roku.com/details/2ceb42ca3d5efa15dd08c994dbfb4b6d:fa76b3282a9d5657708a466fddbbcce0/you-draw-pro-cats-and-dogs"
-    }
+    },
+    "description": "You Draw Pro coloring book offers intricate, relaxing designs for pet lovers and creative minds. Perfect for adults and older kids, it blends artistic challenge with calming fun — ideal for anyone who enjoys detailed coloring and animal-themed art."
   }
 ]
