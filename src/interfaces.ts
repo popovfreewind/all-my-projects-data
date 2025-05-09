@@ -5,4 +5,5 @@ export interface Project {
     type: "game" | "app" | "website";
     platforms: Platform[];
     links?: Partial<Record<Platform, string>>;
+    description?: string;
 }
