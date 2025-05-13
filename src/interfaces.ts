@@ -6,4 +6,5 @@ export interface Project {
     platforms: Platform[];
     links?: Partial<Record<Platform, string>>;
     description?: string;
+    isMostPopular?: boolean;
 }
