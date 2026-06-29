@@ -1,8 +1,8 @@
 import { Project } from "../interfaces";
 
 const project: Project = {
-    name: "Wound You Rather",
-    poster: "wound-you-rather.webp",
+    name: "Would You Rather",
+    poster: "would-you-rather.webp",
     type: "game",
     platforms: ["Roku"],
     links: {
